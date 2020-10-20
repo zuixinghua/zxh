@@ -1,0 +1,36 @@
+{
+  "name": "zuixh-cli",
+  "version": "0.0.3",
+  "description": "用来初始化web端、mobile端工程",
+  "homepage": "https://github.com/yujianglin/zuixh-cli",
+  "bugs": {
+    "url": "https://github.com/yujianglin/zuixh-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yujianglin/zuixh-cli"
+  },
+  "bin": {
+    "zuixh": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zuixh",
+    "zuixh-cli"
+  ],
+  "authors": [
+    "cqsyujianglin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "got": "^11.7.0",
+    "inquirer": "^6.1.0",
+    "ora": "^5.1.0",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {}
+}
