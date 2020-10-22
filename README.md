@@ -1,12 +1,12 @@
-# zuixh-cli
+# zxh
 
 Create a project using the command line.
 
 ## Usage
 
 ```bash
-$ npm i zuixh-cli
-$ zuixh init
+$ npm i zxh
+$ zxh init
 ```
 
 ## Boilerplates
@@ -19,8 +19,8 @@ $ zuixh init
 ## Usage Example
 
 ```bash
-$ npm i zuixh-cli
-$ zuixh init
+$ npm i zxh
+$ zxh init
 
 ? 请选择项目构建类型(Use arrow keys):
 ❯ 1) web-vue
@@ -38,11 +38,11 @@ $ zuixh init
 
 ### 模板下载失败 RequestError: read ECONNRESET
 
-这个问题基本上都是因为 https://api.github.com/repos/yujianglin/ ping 不通。
+这个问题基本上都是因为 https://api.github.com/repos/zuixinghua/ ping 不通。
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/yujianglin/zuixh-cli/issues).
+Please open an issue [here](https://github.com/zuixinghua/zxh/issues).
 
 ## LICENSE
 
